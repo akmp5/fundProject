@@ -1,0 +1,35 @@
+2017-06-06 Io 异常: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=186647296)(ERR=12505)(ERROR_STACK=(ERROR=(CODE=12505)(EMFI=4))))
+2017-06-06 java.sql.SQLException
+2017-06-06 Io 异常: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=186647296)(ERR=12505)(ERROR_STACK=(ERROR=(CODE=12505)(EMFI=4))))
+2017-06-06 java.sql.SQLException
+2017-06-06 Io 异常: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=186647296)(ERR=12505)(ERROR_STACK=(ERROR=(CODE=12505)(EMFI=4))))
+2017-06-06 java.sql.SQLException
+2017-06-06 Io 异常: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=186647296)(ERR=12505)(ERROR_STACK=(ERROR=(CODE=12505)(EMFI=4))))
+2017-06-06 java.sql.SQLException
+2017-06-06 Io 异常: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=186647296)(ERR=12505)(ERROR_STACK=(ERROR=(CODE=12505)(EMFI=4))))
+2017-06-06 java.sql.SQLException
+2017-06-06 Io 异常: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=186647296)(ERR=12505)(ERROR_STACK=(ERROR=(CODE=12505)(EMFI=4))))
+2017-06-06 java.sql.SQLException
+2017-06-06 Io 异常: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=186647296)(ERR=12505)(ERROR_STACK=(ERROR=(CODE=12505)(EMFI=4))))
+2017-06-06 java.sql.SQLException
+2017-06-06 Io 异常: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=186647296)(ERR=12505)(ERROR_STACK=(ERROR=(CODE=12505)(EMFI=4))))
+2017-06-06 java.sql.SQLException
+2017-06-06 Io 异常: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=186647296)(ERR=12505)(ERROR_STACK=(ERROR=(CODE=12505)(EMFI=4))))
+2017-06-06 java.sql.SQLException
+2017-06-06 Io 异常: Connection refused(DESCRIPTION=(TMP=)(VSNNUM=186647296)(ERR=12505)(ERROR_STACK=(ERROR=(CODE=12505)(EMFI=4))))
+2017-06-06 java.sql.SQLException
+2017-06-06 ORA-00001: 违反唯一约束条件 (CXXT.SYS_C0017256)
+
+2017-06-06 java.sql.BatchUpdateException
+2017-06-06 进销存汇总表(jxc_gather)查询异常！
+2017-06-06 进销存汇总表(jxc_gather)查询异常！
+2017-06-06 进销存汇总表(jxc_gather)查询异常！
+2017-06-06 ORA-00001: 违反唯一约束条件 (CXXT.SYS_C0017256)
+
+2017-06-06 java.sql.BatchUpdateException
+2017-06-06 进销存汇总表(jxc_gather)查询异常！
+2017-06-06 进销存汇总表(jxc_gather)查询异常！
+2017-06-06 进销存汇总表(jxc_gather)查询异常！
+2017-06-06 进销存汇总表(jxc_gather)查询异常！
+2017-06-06 进销存汇总表(jxc_gather)查询异常！
+2017-06-06 进销存汇总表(jxc_gather)查询异常！

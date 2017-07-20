@@ -1,0 +1,2 @@
+net stop OracleOraHome92TNSListener
+net stop OracleServiceORACLE
